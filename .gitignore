@@ -1,0 +1,11 @@
+.env
+.env.*
+node_modules/
+npm-debug.log
+*.log
+
+# Docker
+*.pid
+
+# n8n
+.n8n/
